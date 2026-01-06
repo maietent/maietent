@@ -13,7 +13,7 @@ Also somewhat experienced in **Python, C#, Java, SQL, x86 Assembly, HTML/CSS/JS*
 
 ### Game Development
 - Unity, Godot, custom game engine development
-- Experience with **GunZ: The Duel** development
+- Experience with GunZ: The Duel development
 
 ### Networking
 - TCP & UDP protocol programming
