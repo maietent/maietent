@@ -37,4 +37,4 @@ Also somewhat experienced in **Python, C#, Java, SQL, x86 Assembly, HTML/CSS/JS*
 ## Contact
 - Discord: `@maiet`
 - Email: `maietprolib@gmail.com`
-- X (Twitter): `maietent`
+- X (Twitter): `maietgang`
